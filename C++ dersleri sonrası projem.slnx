@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="C++ dersleri sonrası projem/C++ dersleri sonrası projem.vcxproj" />
+</Solution>
